@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Introduction to Ruby on Rails
 
-Things you may want to cover:
+After using Sinatra to gain an understanding on what happens with controllers and models, Rails became the new default for Web development.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Posts were used as a resource, also learned how to set up routes and layouts
